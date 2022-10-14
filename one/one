@@ -1,0 +1,26 @@
+homework one
+
+terminal basic commands:
+
+cd [directoryName] - change directory to directoryName;
+pwd - point what directory - shows what exactly directory we are right now
+ls - list files and directories that current directory contains
+mkdir [directoryName] - make a directory directoryName
+rmdir [directoryName] - removes directoryName if it is empty
+rm -r [directoryName] - removes directoryName with everything that it contains
+touch [fileName] - create fileName 
+echo 'text' > [fileName] - add string 'text' to fileName
+cat [fileName] - displays everything that fileName contains
+cp -r [directoryName] [parentDirectoryName] - copy directoryName and everything
+it contains to parentDirectoryName
+vim [fileName] - opens fileName with interminal text editor, press "I" to edit text
+
+to exit vim:
+if nothing was changed:
+ press 'esc' -> type ':w' -> press 'enter'
+if something was changed and we want to save it:
+ press 'esc' -> type ':wq' -> press 'enter'
+if something was changed and we want discard it:
+ press 'esc' -> type ':q!' -> press 'enter'
+
+
