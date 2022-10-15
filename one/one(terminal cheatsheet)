@@ -23,4 +23,4 @@ if something was changed and we want to save it:
 if something was changed and we want discard it:
  press 'esc' -> type ':q!' -> press 'enter'
 
-
+mv [fileName1] [fileName2] - change name of a file from filename1 tio filename2
