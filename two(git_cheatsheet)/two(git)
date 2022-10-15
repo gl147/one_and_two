@@ -1,0 +1,12 @@
+
+git init - make repository version controlled by Git
+
+git clone [URL] - clone remote repository behind URL to local
+
+git add [path] - prepeare files to be comitted
+
+git commit -m [comment] - creates new commit and add comment
+
+git push - push local repository to remoted origin (after that login and password to git accound will be required)
+
+git remote add origin http://github.com/[userName]/[repositoryName].git - creates remote repository
